@@ -63,7 +63,7 @@ The ER diagram and SQL schema script are included in the `www/` folder.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/jones-auto.git
+   git clone https://github.com/Miguel-Cortes-Munoz/jones-auto.git
    ```
 
 2. Copy the project folder into your WAMP `www/` directory.
